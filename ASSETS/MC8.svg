@@ -1,0 +1,29 @@
+<svg width="419" height="388" viewBox="0 0 419 388" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="MC8" clip-path="url(#clip0_154_24)">
+<rect id="MC8Bcg" width="419" height="388" rx="10" fill="white"/>
+<g id="MC8Content">
+<g id="MC8CameraMount">
+<rect id="MC8CameraMount2" x="84" y="221" width="46" height="58" rx="12" fill="#CACEEB"/>
+<rect id="MC8CameraMount1" x="91" y="221" width="46" height="58" rx="12" fill="#D9D9D9"/>
+<rect id="MC8Pipe1" x="137" y="240" width="25" height="20" fill="#231F20"/>
+<path id="MC8Pipe2" d="M162 265C162 268.866 165.134 272 169 272H183.5C187.366 272 190.5 268.866 190.5 265V252C190.5 248.134 187.366 245 183.5 245H169C165.134 245 162 248.134 162 252V265Z" fill="#D9D9D9"/>
+<path id="MC8Pipe3" d="M162 257.5H190.5V244.5L162 223.5V257.5Z" fill="#D9D9D9"/>
+<path id="MC8Pipe4" d="M190.5 244.5L162 223.5V178H190.5V244.5Z" fill="#231F20"/>
+</g>
+<g id="MC8Camera">
+<ellipse id="MC8CameraPart1" cx="146.383" cy="132.265" rx="27" ry="54" transform="rotate(30 146.383 132.265)" fill="#C9CDEA"/>
+<rect id="MC8CaperaPart4" x="173.383" y="85.5" width="146" height="108" transform="rotate(30 173.383 85.5)" fill="#C9CDEA"/>
+<path id="MC8CameraCap2" d="M299.406 210.221C299.406 210.221 307.324 175.991 307.746 175.776C318.375 170.366 325.803 173.5 329.267 175.5C331.252 176.646 337.427 181.366 338.306 192.843C338.954 201.3 333.82 211.615 328.222 215.311C322.829 218.871 314.994 219.221 309.365 215.971L299.406 210.221Z" fill="#231F20"/>
+<ellipse id="MC8CameraPart2" cx="272.822" cy="205.265" rx="27" ry="54" transform="rotate(30 272.822 205.265)" fill="#D9D9D9"/>
+<path id="MC8CameraPart3" d="M288.161 214.698C275.872 235.982 258.932 249.207 250.322 244.237C241.713 239.266 244.696 217.982 256.984 196.698C269.272 175.414 286.213 162.19 294.822 167.16C303.432 172.131 300.449 193.414 288.161 214.698Z" fill="#231F20"/>
+<ellipse id="MC8CameraLens" cx="273.322" cy="204.399" rx="8" ry="26" transform="rotate(30 273.322 204.399)" fill="#4CABE5"/>
+<path id="MC8CameraCap1" d="M269.961 193.221L128.366 111.471C149.415 78.0131 171.218 84.25 171.218 84.25L329.267 175.5C317.489 168.7 304.325 178.035 299.215 183.553C293.293 189.343 289.125 194.626 280.371 195.19C274.974 195.538 272.992 194.971 269.961 193.221Z" fill="#D9D9D9"/>
+<ellipse id="MC8RedDot" cx="303.471" cy="189.142" rx="1" ry="1.94979" transform="rotate(15 303.471 189.142)" fill="#231F20"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_154_24">
+<rect width="419" height="388" fill="white"/>
+</clipPath>
+</defs>
+</svg>

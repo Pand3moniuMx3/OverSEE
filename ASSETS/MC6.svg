@@ -1,0 +1,27 @@
+<svg width="300" height="278" viewBox="0 0 419 388" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="MC6" clip-path="url(#clip0_147_32)">
+<rect id="MC6Bcg" width="419" height="388" rx="10" fill="white"/>
+<g id="MC6Content">
+<g id="MC6Keys">
+<g id="MC6Key_2">
+<path id="MC6KeyMain_2" d="M172.5 298.5L198.5 198L171.5 190L166.5 207L171.5 217L162.5 225L160 233L168 245L155 252L152 264.5L156 273L148.5 278.5L145 292L155 309.5L172.5 298.5Z" fill="#D9D9D9" stroke="black" stroke-width="2"/>
+<path id="MC6KeyHandle_2" d="M194.5 201C172.409 201 154.5 183.091 154.5 161C154.5 138.909 172.409 121 194.5 121C195.928 121 197.339 121.075 198.728 121.221L219.599 192.147C212.736 197.685 204.006 201 194.5 201Z" fill="#D9D9D9" stroke="black" stroke-width="2"/>
+</g>
+<g id="MC6Key">
+<path id="MC6KeyMain" d="M258.5 290.5L240.5 187.5H212.5L215.5 208L224.5 215.5L218.5 225L220 233.5L232 241.5L223.5 253L225.5 265.5L233 271.5L228 279.5L231 296L247.5 307.5L258.5 290.5Z" fill="#D9D9D9" stroke="black" stroke-width="2"/>
+<circle id="MC6KeyHandle" cx="220.5" cy="154" r="39" fill="#D9D9D9" stroke="black" stroke-width="2"/>
+<circle id="MC6KeyHole" cx="218.5" cy="143" r="13" fill="white" stroke="black" stroke-width="2"/>
+</g>
+<path id="MC6KeyRing" d="M210.5 132.5C232.591 132.5 250 115.091 250 93C250 70.9086 232.091 53 210 53C187.909 53 170 70.9086 170 93C170 104.685 175.01 115.2 183 122.513" stroke="black" stroke-width="2"/>
+</g>
+<rect id="KeyPivot_2" x="198" y="129" width="1" height="1" fill="black"/>
+<rect id="KeyPivot_1" x="215" y="130" width="1" height="1" fill="#D9D9D9"/>
+<rect id="GroupPivot" x="209.5" y="52.5" width="1" height="1" fill="#D9D9D9"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_147_32">
+<rect width="419" height="388" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Icon3" clip-path="url(#clip0_14_105)">
+<rect id="Icon3Frame" x="0.5" y="0.5" width="39" height="39" rx="2.5" fill="white" stroke="#3B3B3B"/>
+<g id="Icon3LocationIcon">
+<path id="Icon3LocationIconBody" d="M26.5769 17.0769C26.5769 19.8175 25.2509 21.2865 23.6563 23.053C23.4948 23.2319 23.3306 23.4139 23.1647 23.6005C22.2705 24.6065 21.3469 25.7375 20.6523 27.2329C20.3998 27.7765 20.1789 28.365 20 29.01C19.821 28.365 19.6002 27.7765 19.3477 27.2329C18.653 25.7375 17.7294 24.6065 16.8352 23.6005C16.6693 23.4139 16.5051 23.2319 16.3436 23.053C14.749 21.2865 13.423 19.8175 13.423 17.0769C13.423 13.4446 16.3676 10.5 20 10.5C23.6323 10.5 26.5769 13.4446 26.5769 17.0769Z" stroke="#3B3B3B"/>
+<circle id="Icon3LocationIconDot" cx="19.9999" cy="17.0769" r="2.35897" fill="#3B3B3B"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_14_105">
+<rect width="40" height="40" fill="white"/>
+</clipPath>
+</defs>
+</svg>

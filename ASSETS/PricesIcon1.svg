@@ -1,0 +1,11 @@
+<svg width="45" height="45" viewBox="0 0 45 45" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="PricesIcon1" clip-path="url(#clip0_115_2)">
+<rect id="PricesIconBcg" x="0.5" y="0.5" width="44" height="44" rx="6.5" stroke="black"/>
+<path id="OneIcon" d="M18.4 27.9362H21.8286V19.0851L18.0571 22.1489L16 20.1064L21.8286 15H24.9143V21.8085V27.9362H28V31H18.4V27.9362Z" stroke="black"/>
+</g>
+<defs>
+<clipPath id="clip0_115_2">
+<rect width="45" height="45" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,29 @@
+<svg width="419" height="388" viewBox="0 0 419 388" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="MC5" clip-path="url(#clip0_142_3)">
+<rect id="MC5Bcg" width="419" height="388" rx="10" fill="white"/>
+<g id="MC5Content">
+    <g id="MC5Nail">
+    <rect id="NailBody" x="70" y="259" width="4" height="76" fill="#595959"/>
+    <path id="NailHead" d="M60 257C60 255.895 60.8954 255 62 255H82C83.1046 255 84 255.895 84 257V259H60V257Z" fill="#A4A4A4"/>
+    </g>
+    <g id="MC5Nail_2">
+    <rect id="NailBody_2" x="70" y="259" width="4" height="76" fill="#595959"/>
+    <path id="NailHead_2" d="M60 257C60 255.895 60.8954 255 62 255H82C83.1046 255 84 255.895 84 257V259H60V257Z" fill="#A4A4A4"/>
+    </g>
+    <g id="MC5HammerPivot">
+    <g id="HammerVector">
+    <path id="HammerBulk" d="M267 138.5H244V102C243 98.5 238.9 91.5 230.5 91.5C222.1 91.5 218 98.5 217 102H214V50H217C218.167 53.1667 222.5 59.5 230.5 59.5C238.5 59.5 242.833 53.1667 244 50C294 50 316.5 89.5 316.5 122.5H295C295 115.5 290 99.5 267 99.5V138.5Z" fill="#C3C3C3" stroke="black" stroke-width="2"/>
+    <rect id="HammerHandle" x="236" y="134" width="39" height="131" rx="19.5" fill="#222222" stroke="black" stroke-width="2"/>
+    <rect id="HammerHead" x="190" y="50" width="24" height="52" fill="#D9D9D9" stroke="black" stroke-width="2"/>
+    </g>
+    <rect id="MC5Pivot" x="255" y="245" width="1" height="1" fill="#222222"/>
+    </g>
+    <path id="MC5Floor" d="M0 326H419V378C419 383.523 414.523 388 409 388H10C4.47716 388 0 383.523 0 378V326Z" fill="#D9D9D9"/>
+    </g>
+</g>
+<defs>
+<clipPath id="clip0_142_3">
+<rect width="419" height="388" fill="white"/>
+</clipPath>
+</defs>
+</svg>
