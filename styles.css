@@ -554,7 +554,7 @@ header#master-header {
 
 .main__content p {
     color: white;
-    mix-blend-mode: difference;
+	mix-blend-mode: difference;
     padding: 50px 25px 0px 0px;
 
     z-index: 1;
@@ -2058,7 +2058,7 @@ animation: Photos3n4AdditionalAnimation 12s ease-in-out infinite 9360ms;
     align-items: center;
 }
 .contact-container div h2 {
-    color: white;
+    color: var(--clr-white);
     font-size: 36px;
     padding: 0;
     line-height: 1.2;
@@ -2636,7 +2636,7 @@ input::-webkit-inner-spin-button {
     .navbar__toggle {
         height: 2rem;
         width: 2rem;
-        background: var(--clr-black);
+        background: black;
         border-radius: 8px;
 
         display: flex;
@@ -2651,7 +2651,7 @@ input::-webkit-inner-spin-button {
         height: 2px;
         margin-inline: auto;
         transition: all 0.3s ease;
-        background: var(--clr-white);
+        background-color: white;
     }
     .navbar__toggle .bar {
         display: block;
@@ -2688,14 +2688,11 @@ input::-webkit-inner-spin-button {
         padding: 0px 0px 0px 0px;
     }
     .main__content p {
-        color: white;
-        mix-blend-mode: normal;
         padding: 50px 50px 0px 0px;
     }
     .main__content button {
         margin: 40px 0px;
         padding: 10px 30px;
-        color: white;
         font-size: 16px;
         width: auto;
     }
