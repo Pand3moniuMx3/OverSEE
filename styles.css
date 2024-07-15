@@ -546,8 +546,8 @@ header#master-header {
 
 .main__content p {
     color: var(--clr-white);
-    mix-blend-mode: difference;
     padding: 50px 25px 0px 0px;
+	mix-blend-mode: difference;
 
     z-index: 1;
 }
@@ -2511,7 +2511,7 @@ input::-webkit-inner-spin-button {
         font-size: 16px;
         line-height: 32px;
     }
-
+	
     .navbar__container {
         display: flex;
         justify-content: space-between;
@@ -2677,6 +2677,7 @@ input::-webkit-inner-spin-button {
 
     #translate-btn {
         margin-right: 3rem;
+	margin-top: 2rem;
     }
 }
 
