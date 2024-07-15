@@ -182,7 +182,7 @@ p {
     font-size: 18px;
     font-family: "Inter", sans-serif;
     color: var(--clr-text);
-    font-weight: 300;
+    font-weight: normal;
     line-height: 35px;
     letter-spacing:0.4px;
 }
@@ -190,7 +190,7 @@ p {
 h1 {
     font-size: 70px;
     font-family: "Inter", serif;
-    font-weight: 800;
+    font-weight: bold;
     line-height: 80px;
 
     mix-blend-mode: difference;
@@ -1420,7 +1420,8 @@ animation: Photos3n4AdditionalAnimation 12s ease-in-out infinite 9360ms;
 
         display: flex;
         flex-direction: column;
-        justify-content: space-evenly;
+        justify-content: space-between;
+	gap: 2rem;
         margin: 0px 10px; /* Space between items */
         box-sizing: border-box;
         padding: 20px;
@@ -2517,8 +2518,7 @@ input::-webkit-inner-spin-button {
         height: 8vh;
         z-index: 200;
         width: 100%;
-        max-width: 960px;
-        padding: 0;
+        padding: 2rem 0 0 0;
     }
     .navbar__menu {
         display: grid;
