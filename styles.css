@@ -1458,6 +1458,7 @@ animation: Photos3n4AdditionalAnimation 12s ease-in-out infinite 9360ms;
     .carousel-item svg {
         margin: 3rem 0 2rem 0;
         align-self: center;
+	    filter: drop-shadow(4px 4px 10px rgba(0, 0, 0, 0.1));
     }
     
     .carousel-item:last-child {
@@ -2497,9 +2498,6 @@ input::-webkit-inner-spin-button {
     .main__container {
         height: auto;
         padding: 8% 50px 0 50px;
-    }
-    .main__content p {
-        mix-blend-mode: normal;
     }
 
     .pricing h2 {
